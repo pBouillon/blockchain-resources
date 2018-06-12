@@ -25,6 +25,7 @@ List of links and resources to get started with blockchain.
 * [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 * [Cryptocurrency Consensus Algorithms overview](https://hackernoon.com/an-overview-of-cryptocurrency-consensus-algorithms-9d744289378f)
 * [Quick overview of consensus possibilities in a blockchain](https://dev.to/damcosset/quick-overview-of-consensus-possibilities-in-a-blockchain--2d24)
+* [Tendermint - Byzantine Consensus Algorithm](https://github.com/tendermint/tendermint/wiki/Byzantine-Consensus-Algorithm)
 
 
 ### Overview
