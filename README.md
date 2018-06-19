@@ -14,6 +14,7 @@ List of links and resources to get started with blockchain.
 ## Links
 
 ### Blockchain by practice and examples
+* [A Programmer’s Guide to Ethereum and Serpent](https://mc2-umd.github.io/ethereumlab/docs/serpent_tutorial.pdf)
 * [Blockchain Explained By Trying To Pass High School Math Class](https://dev.to/kbk0125/blockchain-explained-by-trying-to-pass-high-school-math-class-3c8k)
 * [Build your first smart contract](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca)
 * [IBM - Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)
