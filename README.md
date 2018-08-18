@@ -36,7 +36,7 @@ List of links and resources to get started with blockchain.
 * [Blockchain: what is in a block?](https://dev.to/damcosset/blockchain-what-is-in-a-block-48jo)
 * [IBM - Making Blockchain Real for Business](https://developer.ibm.com/courses/wp-content/uploads/sites/83/BlockchainOverview.pdf)
 * [Making blockchain relevant for businesses](https://dev.to/damcosset/making-blockchain-relevant-for-businesses-586l)
-
+* [Upfolio - Crypto Guides](https://www.upfolio.com/guides)
 
 ## Contribute
 Relevant contributions are very welcome !
